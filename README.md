@@ -1,2 +1,2 @@
 # GUI
-A very example of GUI in Java.
+A very easy example of GUI in Java.
